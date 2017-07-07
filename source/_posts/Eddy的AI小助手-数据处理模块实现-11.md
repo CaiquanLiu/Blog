@@ -44,7 +44,7 @@ IDE：PyDev+Eclipse
 
 在部署好tornado_server web服务后，使用http_request模块完成http请求测试。比如客户端请求服务端的图灵能力（服务端调用图灵接口），
 
-![http请求测试代码](Eddy的AI小助手-数据处理模块实现-11/请求测试代码.png.png)
+![http请求测试代码](Eddy的AI小助手-数据处理模块实现-11/请求测试代码.png)
 
 
 ![测试结果](Eddy的AI小助手-数据处理模块实现-11/测试结果2.png)
