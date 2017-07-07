@@ -39,9 +39,9 @@ seo: false
 menu:
   home: /
   #categories: /categories
-  about: /about
   archives: /archives
   tags: /tags
+  about: /about
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
