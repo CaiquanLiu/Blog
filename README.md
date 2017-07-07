@@ -2,6 +2,7 @@
 博客地址: [http://caiquanliu.github.io](http://caiquanliu.github.io)
 
 不同设备编辑：
+
 	#git clone git@github.com:CaiquanLiu/Blog.git
 	#cd Blog
 	#npm install hexo
