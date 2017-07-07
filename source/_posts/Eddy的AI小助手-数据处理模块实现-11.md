@@ -46,6 +46,7 @@ IDE：PyDev+Eclipse
 
 ![http请求测试代码](Eddy的AI小助手-数据处理模块实现-11/http请求测试代码.png)
 
+
 ![测试结果](Eddy的AI小助手-数据处理模块实现-11/测试结果2.png)
 
 其中，服务端与客户端之间基于Json进行通信。
