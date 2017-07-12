@@ -7,7 +7,7 @@ tags: Eddy的AI学习之旅
 
 AI小助手中使用的TTS模块来自百度语音： [http://yuyin.baidu.com/](http://yuyin.baidu.com/)。
 
-TTS模块在工程中的位置：
+# 模块在工程中的位置
 
 ![Paste_Image.png](Eddy的AI小助手-百度TTS合成模块-18/模块位置.png)
 
