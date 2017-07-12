@@ -1,7 +1,7 @@
 ---
 title: Eddy的AI小助手-Tornado Web模块(13)
 date: 2017-07-12 16:48:20
-tags:
+tags: Eddy的AI学习之旅
 ---
 Python后台采用Tornado作为Web Server。Tornado的部署和使用非常简单。
 # Tornado安装
