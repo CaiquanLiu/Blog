@@ -71,3 +71,6 @@ deploy:
   type: git
   repo: git@github.com:CaiquanLiu/CaiquanLiu.github.io.git
   branch: master
+  
+# 百度统计
+baidu_analytics: 4e94c4c1ded5d320541370545af638ea
