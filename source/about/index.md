@@ -11,6 +11,8 @@ date: 2017-07-07 19:37:15
 
 领英（LinkedIn）主页：[https://www.linkedin.com/in/caiquan-liu-23783438/](https://www.linkedin.com/in/caiquan-liu-23783438/)
 
+知乎主页：[https://www.zhihu.com/people/liu-cai-quan-40](https://www.zhihu.com/people/liu-cai-quan-40)
+
 Github主页：[https://github.com/CaiquanLiu](https://github.com/CaiquanLiu)
 
 Leetcode主页：[https://leetcode.com/eddyliu/](https://leetcode.com/eddyliu/)
