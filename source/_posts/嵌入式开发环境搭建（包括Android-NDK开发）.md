@@ -21,6 +21,10 @@ Linux端开启SCP，只需要：
 		
 		sudo apt-get install openssh-server
 Windows端可使用WinSCP或Filezilla作为客户端
+## Vim配置
+<https://www.cnblogs.com/ma6174/archive/2011/12/10/2283393.html>
+## 安装zsh
+很好用的shell工具
 ## 添加中文输入法
 sougou的linux输入法是不错的选择：<http://pinyin.sogou.com/linux/>
 ## CLion安装（C/C++开发IDE）
