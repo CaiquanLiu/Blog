@@ -1,7 +1,7 @@
 ---
 title: 科胜讯（conexant）2MIC/4MIC方案分析-0写在最前面
 date: 2017-07-06 20:06:39
-tags: 科胜讯（conexant）2MIC/4MIC方案分析
+tags: 物联网(IOT)
 ---
 随着人工智能技术的日益成熟，智能硬件这个“古老”的领域也慢慢焕发生机，最典型的是各大互联网公司推出的智能音箱产品。亚马逊集成Alex的Echo，谷歌集成GoogleAssistant的GoogleHome已在市场上占据先机。苹果集成Siri的智能音箱以及国内百度集成DuerOS的智能音箱已在路上。相信微软集成Cortana的智能音箱也会不久面世。
 

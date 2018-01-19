@@ -1,7 +1,7 @@
 ---
 title: 基于Python Hyper实现Http2的multipart/form-data数据上传
 date: 2017-07-21 13:08:53
-tags: Python
+tags: 编程语言
 ---
 Http/2虽然推出已经不短了，但目前整体的使用率并不高，对应的支持库也并不理想，目前主要的支持库可以参考:[https://github.com/http2/http2-spec/wiki/Implementations](https://github.com/http2/http2-spec/wiki/Implementations)
 

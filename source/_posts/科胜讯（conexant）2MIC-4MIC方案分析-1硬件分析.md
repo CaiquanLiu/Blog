@@ -1,7 +1,7 @@
 ---
 title: 科胜讯（conexant）2MIC/4MIC方案分析-1硬件分析
 date: 2017-07-06 21:09:11
-tags: 科胜讯（conexant）2MIC/4MIC方案分析
+tags: 物联网(IOT)
 ---
 科盛讯麦克风阵列方案的项目主页：<http://www.conexant.com/amazon-avs/>
 
