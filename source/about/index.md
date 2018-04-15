@@ -9,12 +9,22 @@ date: 2017-07-07 19:37:15
 
 目前公司全面转向AI领域，自己也有幸在AI相关的部门打杂，虽然很多人说当前AI的泡沫很大，但AI是未来的趋势，这是毋庸置疑的。希望AI的能力尽快转化为产品，变成我们生活中不可或缺的一部分~
 
-领英（LinkedIn）主页：[https://www.linkedin.com/in/caiquan-liu-23783438/](https://www.linkedin.com/in/caiquan-liu-23783438/)
 
-知乎主页：[https://www.zhihu.com/people/liu-cai-quan-40](https://www.zhihu.com/people/liu-cai-quan-40)
+### 相关链接
+* 领英（LinkedIn）主页：[https://www.linkedin.com/in/caiquan-liu-23783438/](https://www.linkedin.com/in/caiquan-liu-23783438/)
 
-Github主页：[https://github.com/CaiquanLiu](https://github.com/CaiquanLiu)
+* 知乎主页：[https://www.zhihu.com/people/liu-cai-quan-40](https://www.zhihu.com/people/liu-cai-quan-40)
 
-Leetcode主页：[https://leetcode.com/eddyliu/](https://leetcode.com/eddyliu/)
+* Github主页：[https://github.com/CaiquanLiu](https://github.com/CaiquanLiu)
 
-POJ主页：[http://poj.org/userstatus?user_id=eddy_liu](http://poj.org/userstatus?user_id=eddy_liu)
+* Leetcode主页：[https://leetcode.com/eddyliu/](https://leetcode.com/eddyliu/)
+
+* POJ主页：[http://poj.org/userstatus?user_id=eddy_liu](http://poj.org/userstatus?user_id=eddy_liu)
+
+### 机器学习/深度学习 Coursera证书
+* 《Machine Learning》
+[https://www.coursera.org/account/accomplishments/verify/Q8LSUKSMJ2ZQ](https://www.coursera.org/account/accomplishments/verify/Q8LSUKSMJ2ZQ)
+* 《Neural Networks and Deep Learning》
+[https://www.coursera.org/account/accomplishments/verify/E8CTJMSHP34B](https://www.coursera.org/account/accomplishments/verify/E8CTJMSHP34B)
+* 《Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization》
+[https://www.coursera.org/account/accomplishments/verify/YQ58SFQD95FL](https://www.coursera.org/account/accomplishments/verify/YQ58SFQD95FL)
