@@ -21,6 +21,8 @@ date: 2017-07-07 19:37:15
 
 * POJ主页：[http://poj.org/userstatus?user_id=eddy_liu](http://poj.org/userstatus?user_id=eddy_liu)
 
+* CSDN主页：[https://blog.csdn.net/eddy_liu](https://blog.csdn.net/eddy_liu)
+
 ### 机器学习/深度学习 Coursera证书
 * [《Machine Learning》](https://www.coursera.org/account/accomplishments/verify/Q8LSUKSMJ2ZQ)
 * [《Neural Networks and Deep Learning》](https://www.coursera.org/account/accomplishments/verify/E8CTJMSHP34B)
