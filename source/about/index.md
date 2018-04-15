@@ -22,9 +22,6 @@ date: 2017-07-07 19:37:15
 * POJ主页：[http://poj.org/userstatus?user_id=eddy_liu](http://poj.org/userstatus?user_id=eddy_liu)
 
 ### 机器学习/深度学习 Coursera证书
-* 《Machine Learning》
-[https://www.coursera.org/account/accomplishments/verify/Q8LSUKSMJ2ZQ](https://www.coursera.org/account/accomplishments/verify/Q8LSUKSMJ2ZQ)
-* 《Neural Networks and Deep Learning》
-[https://www.coursera.org/account/accomplishments/verify/E8CTJMSHP34B](https://www.coursera.org/account/accomplishments/verify/E8CTJMSHP34B)
-* 《Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization》
-[https://www.coursera.org/account/accomplishments/verify/YQ58SFQD95FL](https://www.coursera.org/account/accomplishments/verify/YQ58SFQD95FL)
+* [《Machine Learning》](https://www.coursera.org/account/accomplishments/verify/Q8LSUKSMJ2ZQ)
+* [《Neural Networks and Deep Learning》](https://www.coursera.org/account/accomplishments/verify/E8CTJMSHP34B)
+* [《Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization》](https://www.coursera.org/account/accomplishments/verify/YQ58SFQD95FL)
