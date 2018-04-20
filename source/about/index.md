@@ -10,6 +10,16 @@ date: 2017-07-07 19:37:15
 目前公司全面转向AI领域，自己也有幸在AI相关的部门打杂，虽然很多人说当前AI的泡沫很大，但AI是未来的趋势，这是毋庸置疑的。希望AI的能力尽快转化为产品，变成我们生活中不可或缺的一部分~
 
 
+
+### 机器学习/深度学习 学习历程
+* [《机器学习/深度学习入门资料汇总》](https://liucaiquan.site/2017/11/12/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E8%B5%84%E6%96%99%E6%B1%87%E6%80%BB/)
+
+### 机器学习/深度学习 Coursera证书
+* [《Machine Learning》](https://www.coursera.org/account/accomplishments/verify/Q8LSUKSMJ2ZQ)
+* [《Neural Networks and Deep Learning》](https://www.coursera.org/account/accomplishments/verify/E8CTJMSHP34B)
+* [《Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization》](https://www.coursera.org/account/accomplishments/verify/YQ58SFQD95FL)
+* [《Structuring Machine Learning Projects》](https://www.coursera.org/account/accomplishments/certificate/K7LFSCSEV6VG)
+
 ### 相关链接
 * 领英（LinkedIn）主页：[https://www.linkedin.com/in/caiquan-liu-23783438/](https://www.linkedin.com/in/caiquan-liu-23783438/)
 
@@ -22,8 +32,3 @@ date: 2017-07-07 19:37:15
 * POJ主页：[http://poj.org/userstatus?user_id=eddy_liu](http://poj.org/userstatus?user_id=eddy_liu)
 
 * CSDN主页：[https://blog.csdn.net/eddy_liu](https://blog.csdn.net/eddy_liu)
-
-### 机器学习/深度学习 Coursera证书
-* [《Machine Learning》](https://www.coursera.org/account/accomplishments/verify/Q8LSUKSMJ2ZQ)
-* [《Neural Networks and Deep Learning》](https://www.coursera.org/account/accomplishments/verify/E8CTJMSHP34B)
-* [《Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization》](https://www.coursera.org/account/accomplishments/verify/YQ58SFQD95FL)
