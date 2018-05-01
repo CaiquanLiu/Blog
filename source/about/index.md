@@ -19,6 +19,7 @@ date: 2017-07-07 19:37:15
 * 深度学习：[《Neural Networks and Deep Learning》](https://www.coursera.org/account/accomplishments/verify/E8CTJMSHP34B)
 * 深度学习：[《Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization》](https://www.coursera.org/account/accomplishments/verify/YQ58SFQD95FL)
 * 深度学习：[《Structuring Machine Learning Projects》](https://www.coursera.org/account/accomplishments/certificate/K7LFSCSEV6VG)
+* 深度学习：[《Recurrent Neural Networks》](https://www.coursera.org/account/accomplishments/verify/MW5JQ9BEDQR2)
 
 ### 相关链接
 * 领英（LinkedIn）主页：[https://www.linkedin.com/in/caiquan-liu-23783438/](https://www.linkedin.com/in/caiquan-liu-23783438/)
