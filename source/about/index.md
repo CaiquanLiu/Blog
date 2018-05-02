@@ -15,11 +15,11 @@ date: 2017-07-07 19:37:15
 * [《机器学习/深度学习入门资料汇总》](https://liucaiquan.site/2017/11/12/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E8%B5%84%E6%96%99%E6%B1%87%E6%80%BB/)
 
 ### 机器学习/深度学习 Coursera证书
-* 吴恩达(Andrew Ng)机器学习课程：[《Machine Learning》](https://www.coursera.org/account/accomplishments/verify/Q8LSUKSMJ2ZQ)
-* 吴恩达(Andrew Ng)深度学习工程师课程：[《Neural Networks and Deep Learning》](https://www.coursera.org/account/accomplishments/verify/E8CTJMSHP34B)
-* 吴恩达(Andrew Ng)深度学习工程师课程：[《Improving Deep Neural Networks》](https://www.coursera.org/account/accomplishments/verify/YQ58SFQD95FL)
-* 吴恩达(Andrew Ng)深度学习工程师课程：[《Structuring Machine Learning Projects》](https://www.coursera.org/account/accomplishments/certificate/K7LFSCSEV6VG)
-* 吴恩达(Andrew Ng)深度学习工程师课程：[《Recurrent Neural Networks》](https://www.coursera.org/account/accomplishments/verify/MW5JQ9BEDQR2)
+* 吴恩达(Andrew Ng)机器学习课程：[《Machine Learning》](./pictures/MachineLearning.png)
+* 吴恩达(Andrew Ng)深度学习工程师课程：[《Neural Networks and Deep Learning》](./pictures/NeuralNetworksandDeepLearning.png)
+* 吴恩达(Andrew Ng)深度学习工程师课程：[《Improving Deep Neural Networks》](./pictures/ImprovingDeepNeuralNetworks.png)
+* 吴恩达(Andrew Ng)深度学习工程师课程：[《Structuring Machine Learning Projects》](./pictures/StructuringMachineLearningProjects.png)
+* 吴恩达(Andrew Ng)深度学习工程师课程：[《Recurrent Neural Networks》](./pictures/SequenceModels.png)
 
 ### 相关链接
 * 领英（LinkedIn）主页：[https://www.linkedin.com/in/caiquan-liu-23783438/](https://www.linkedin.com/in/caiquan-liu-23783438/)
