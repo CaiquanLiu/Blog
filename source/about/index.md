@@ -17,7 +17,7 @@ date: 2017-07-07 19:37:15
 ### 机器学习/深度学习 Coursera证书
 * 吴恩达(Andrew Ng)机器学习课程：[《Machine Learning》](https://www.coursera.org/account/accomplishments/verify/Q8LSUKSMJ2ZQ)
 * 吴恩达(Andrew Ng)深度学习工程师课程：[《Neural Networks and Deep Learning》](https://www.coursera.org/account/accomplishments/verify/E8CTJMSHP34B)
-* 吴恩达(Andrew Ng)深度学习工程师课程：[《Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization》](https://www.coursera.org/account/accomplishments/verify/YQ58SFQD95FL)
+* 吴恩达(Andrew Ng)深度学习工程师课程：[《Improving Deep Neural Networks》](https://www.coursera.org/account/accomplishments/verify/YQ58SFQD95FL)
 * 吴恩达(Andrew Ng)深度学习工程师课程：[《Structuring Machine Learning Projects》](https://www.coursera.org/account/accomplishments/certificate/K7LFSCSEV6VG)
 * 吴恩达(Andrew Ng)深度学习工程师课程：[《Recurrent Neural Networks》](https://www.coursera.org/account/accomplishments/verify/MW5JQ9BEDQR2)
 
