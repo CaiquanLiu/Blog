@@ -21,6 +21,11 @@ date: 2017-07-07 19:37:15
 * 吴恩达(Andrew Ng)深度学习工程师课程：[《Structuring Machine Learning Projects》](./pictures/StructuringMachineLearningProjects.png)
 * 吴恩达(Andrew Ng)深度学习工程师课程：[《Recurrent Neural Networks》](./pictures/SequenceModels.png)
 
+## 机器学习/深度学习项目实践
+* [基于百度UNIT的IKEA购物助手-2017百度之星程序设计大赛](https://github.com/UNIT-DEV/IKEAAssistant)
+* [Kaggle](https://github.com/CaiquanLiu/Kaggle)
+* [中文语句相似度计算-2018ATEC蚂蚁开发者大赛](https://github.com/ATEC2018/deep-siamese-text-similarity)
+
 ### 相关链接
 * 领英（LinkedIn）主页：[https://www.linkedin.com/in/caiquan-liu-23783438/](https://www.linkedin.com/in/caiquan-liu-23783438/)
 
