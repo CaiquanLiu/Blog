@@ -14,12 +14,13 @@ date: 2017-07-07 19:37:15
 ### 机器学习/深度学习 学习历程
 * [《机器学习/深度学习入门资料汇总》](https://liucaiquan.site/2017/11/12/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E8%B5%84%E6%96%99%E6%B1%87%E6%80%BB/)
 
-### 机器学习/深度学习 Coursera证书
-* 吴恩达(Andrew Ng)机器学习课程：[《Machine Learning》](./pictures/MachineLearning.png)
-* 吴恩达(Andrew Ng)深度学习工程师课程：[《Neural Networks and Deep Learning》](./pictures/NeuralNetworksandDeepLearning.png)
-* 吴恩达(Andrew Ng)深度学习工程师课程：[《Improving Deep Neural Networks》](./pictures/ImprovingDeepNeuralNetworks.png)
-* 吴恩达(Andrew Ng)深度学习工程师课程：[《Structuring Machine Learning Projects》](./pictures/StructuringMachineLearningProjects.png)
-* 吴恩达(Andrew Ng)深度学习工程师课程：[《Recurrent Neural Networks》](./pictures/SequenceModels.png)
+### 机器学习/深度学习证书
+* 吴恩达(Andrew Ng)机器学习课程(Coursera)：[《Machine Learning》](./pictures/MachineLearning.png)
+* 吴恩达(Andrew Ng)深度学习工程师课程(Coursera)：[《Neural Networks and Deep Learning》](./pictures/NeuralNetworksandDeepLearning.png)
+* 吴恩达(Andrew Ng)深度学习工程师课程(Coursera)：[《Improving Deep Neural Networks》](./pictures/ImprovingDeepNeuralNetworks.png)
+* 吴恩达(Andrew Ng)深度学习工程师课程(Coursera)：[《Structuring Machine Learning Projects》](./pictures/StructuringMachineLearningProjects.png)
+* 吴恩达(Andrew Ng)深度学习工程师课程(Coursera)：[《Recurrent Neural Networks》](./pictures/SequenceModels.png)
+* 百度深度学习公开课：[《结业证书》](./pictures/百度深度学习公开课.png)
 
 ## 机器学习/深度学习项目实践
 * [基于百度UNIT的IKEA购物助手-2017百度之星程序设计大赛](https://github.com/UNIT-DEV/IKEAAssistant)
