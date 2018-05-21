@@ -29,6 +29,7 @@ date: 2017-07-07 19:37:15
 * [吴恩达(Andrew Ng)深度学习(Coursera)课程作业](https://github.com/CaiquanLiu/DeepLearningHomework)
 * [吴恩达(Andrew Ng)机器学习(Coursera)课程作业](https://github.com/CaiquanLiu/MachineLearningHomework)
 * [Kaggle](https://github.com/CaiquanLiu/Kaggle)
+* [基于DuerOS的个人的智能语音助手](https://github.com/MyDuerOS/DuerOS-Python-Client)
 * [基于百度UNIT的IKEA购物助手-2017百度之星程序设计大赛](https://github.com/UNIT-DEV/IKEAAssistant)
 
 ### 相关链接
