@@ -19,6 +19,7 @@ date: 2017-07-07 19:37:15
 * 吴恩达(Andrew Ng)深度学习工程师课程(Coursera)：[《Neural Networks and Deep Learning》](./pictures/NeuralNetworksandDeepLearning.png)
 * 吴恩达(Andrew Ng)深度学习工程师课程(Coursera)：[《Improving Deep Neural Networks》](./pictures/ImprovingDeepNeuralNetworks.png)
 * 吴恩达(Andrew Ng)深度学习工程师课程(Coursera)：[《Structuring Machine Learning Projects》](./pictures/StructuringMachineLearningProjects.png)
+* 吴恩达(Andrew Ng)深度学习工程师课程(Coursera)：[《Convolutional Neural Networks》](./pictures/ConvolutionalNeuralNetworks.png)
 * 吴恩达(Andrew Ng)深度学习工程师课程(Coursera)：[《Recurrent Neural Networks》](./pictures/SequenceModels.png)
 * 百度深度学习公开课：[《结业证书》](./pictures/百度深度学习公开课.png)
 
