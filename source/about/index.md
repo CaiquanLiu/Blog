@@ -13,6 +13,7 @@ date: 2017-07-07 19:37:15
 
 ### 机器学习/深度学习 学习历程
 * [《机器学习/深度学习入门资料汇总》](https://liucaiquan.site/2017/11/12/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E8%B5%84%E6%96%99%E6%B1%87%E6%80%BB/)
+* [《机器学习》笔记](https://liucaiquan.site/tags/机器学习笔记/)
 
 ### 机器学习/深度学习证书
 * 吴恩达(Andrew Ng)机器学习课程(Coursera)：[《Machine Learning》](./pictures/MachineLearning.png)
