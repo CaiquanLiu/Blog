@@ -26,7 +26,8 @@ date: 2017-07-07 19:37:15
 * 百度深度学习公开课：[《结业证书》](./pictures/百度深度学习公开课.png)
 
 ## 机器学习/深度学习项目实践
-* [中文语句相似度计算-2018ATEC蚂蚁开发者大赛](https://github.com/ATEC2018/deep-siamese-text-similarity)
+* [基于RNN的中文语句相似度计算-2018ATEC蚂蚁开发者大赛](https://github.com/ATEC2018/deep-siamese-text-similarity)
+* [基于CNN的中文语句相似度计算-2018ATEC蚂蚁开发者大赛](https://github.com/ATEC2018/mpcnn-text-similarity)
 * [吴恩达(Andrew Ng)深度学习(Coursera)课程作业](https://github.com/CaiquanLiu/DeepLearningHomework)
 * [吴恩达(Andrew Ng)机器学习(Coursera)课程作业](https://github.com/CaiquanLiu/MachineLearningHomework)
 * [Kaggle](https://github.com/CaiquanLiu/Kaggle)
