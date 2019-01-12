@@ -9,6 +9,7 @@ date: 2017-07-07 19:37:15
 
 目前公司全面转向AI领域，自己也有幸在AI相关的部门打杂，虽然很多人说当前AI的泡沫很大，但AI是未来的趋势，这是毋庸置疑的。希望AI的能力尽快转化为产品，变成我们生活中不可或缺的一部分~
 
+[更新一波，目前已如愿加入算法开发的大家庭，从事自然语言处理的算法开发 :) ]
 
 
 ### 机器学习/深度学习 学习历程
@@ -23,7 +24,6 @@ date: 2017-07-07 19:37:15
 [《Structuring Machine Learning Projects》](./pictures/StructuringMachineLearningProjects.png)
 [《Convolutional Neural Networks》](./pictures/ConvolutionalNeuralNetworks.png)
 [《Recurrent Neural Networks》](./pictures/SequenceModels.png)
-* 百度深度学习公开课：[《结业证书》](./pictures/百度深度学习公开课.png)
 
 ## 机器学习/深度学习项目实践
 * [基于RNN的中文语句相似度计算-2018ATEC蚂蚁开发者大赛](https://github.com/ATEC2018/deep-siamese-text-similarity)
