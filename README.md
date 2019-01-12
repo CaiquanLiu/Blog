@@ -8,6 +8,11 @@
 	#npm install -g hexo-cli
 	#npm install
 	#npm install hexo-deployer-git
+	
+发布新文章：
+	
+	# hexo new “xxx" (文章新建)
+	# hexo d -g (文章部署)
 
 注意
 * 不需要hexo init这条指令
