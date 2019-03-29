@@ -1,7 +1,7 @@
 # 技术博客存档
 博客地址: [http://liucaiquan.site/about](http://liucaiquan.site/about)
 
-不同设备编辑：
+不同设备编辑(node需要使用8.x版本，高版本会出问题)：
 
 	#git clone git@github.com:CaiquanLiu/Blog.git
 	#cd Blog
