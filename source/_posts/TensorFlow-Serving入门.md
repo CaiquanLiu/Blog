@@ -3,6 +3,8 @@ title: TensorFlow Serving入门
 date: 2018-09-21 17:21:28
 tags: TensorFlow
 ---
+由于图片外链被禁止了，图片不能显示，完整文章看这里吧：<https://zhuanlan.zhihu.com/p/45109194>
+
 大家习惯使用TensorFlow进行模型的训练、验证和预测，但模型完善之后的生产上线流程，就变得五花八门了。针对这种情况Google提供了TensorFlow Servering，可以将训练好的模型直接上线并提供服务。在2017年的TensorFlow开发者Summit上便提出了TensorFlow Serving。
 传送门：<https://www.youtube.com/watch?v=q_IkJcPyNl0&list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv&index=13>
 但那时候客户端和服务端的通信只支持gRPC。在实际的生产环境中比较广泛使用的C/S通信手段是基于RESTfull API的，幸运的是从TF1.8以后，TF Serving也正式支持RESTfull API通信方式了。

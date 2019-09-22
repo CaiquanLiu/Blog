@@ -3,6 +3,8 @@ title: 《TensorFlow内核剖析》笔记
 date: 2019-02-24 19:40:33
 tags: TensorFlow
 ---
+由于图片外链被禁止了，图片不能显示，完整文章看这里吧：<https://zhuanlan.zhihu.com/p/57559407>
+
 市面上对TensorFlow使用介绍的书非常之多，但剖析原理的却很少。如果对TensorFlow的底层实现感兴趣，刘光聪的《TensorFlow内核剖析》是一个不错的选择。同时，这是一本开源技术书，可以免费获得。
 ## DistBelife框架
 ![DistBelife框架](https://upload-images.jianshu.io/upload_images/4905018-4353758491c42988.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

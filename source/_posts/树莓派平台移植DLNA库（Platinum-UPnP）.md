@@ -3,6 +3,8 @@ title: 树莓派平台移植DLNA库（Platinum UPnP）
 date: 2018-01-19 16:17:09
 tags: 物联网(IOT)
 ---
+由于图片外链被禁止了，图片不能显示，完整文章看这里吧：<https://www.jianshu.com/p/11eb4aa2359e>
+
 ## 背景介绍
 DLNA 成立于2003 年6 月24 日,  其前身是DHWG （Digital Home Working Group 数字家庭工作组），由Sony、Intel、Microsoft等发起成立、旨在解决个人PC ，消费电器，移动设备在内的无线网络和有线网络的互联互通，使得数字媒体和内容服务的无限制的共享和增长成为可能。官方网址：https://www.dlna.org/。
 

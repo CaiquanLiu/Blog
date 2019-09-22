@@ -3,6 +3,8 @@ title: Step by Step带你玩转DuerOS - DuerOS能力初体验(2)
 date: 2017-11-11 21:33:42
 tags: DuerOS
 ---
+由于图片外链被禁止了，图片不能显示，完整文章看这里吧：<https://www.jianshu.com/p/267334be6954>
+
 有了前面两篇文章的介绍，相信大家已经跃跃欲试了，想最快的体验DuerOS的能力？那当然是下载DuerOS App啦，
 
 ![度秘App](http://upload-images.jianshu.io/upload_images/4905018-dc6b78232b08c78a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

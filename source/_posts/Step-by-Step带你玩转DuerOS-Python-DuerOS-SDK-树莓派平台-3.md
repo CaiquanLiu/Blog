@@ -3,6 +3,8 @@ title: 'Step by Step带你玩转DuerOS - Python DuerOS SDK[树莓派平台] (3)'
 date: 2017-11-11 21:41:26
 tags: DuerOS
 ---
+由于图片外链被禁止了，图片不能显示，完整文章看这里吧：<https://www.jianshu.com/p/e689d770d99d>
+
 在前一个帖子中，给大家带来了Python版本的DuerOS SDK。但DuerOS的测试环境却声明为Ubuntu，相信很多同学会疑惑：Python不是跨平台的吗？为什么要限制测试平台呢？真实的情况呢是这样的：
 首先，Python跨平台这个没毛病。但问题在于DuerOS运行所需要的依赖环境确实跟平台相关的。比如DuerOS是基于Http2 ALPN的，但树莓派官方镜像的OpenSSL并不支持，而对应的Python库依赖于OpenSSL。为了在树莓派平台上支持Python的DuerOS SDK，专门交叉编译了OpenSSL和Python。
 所以，这里限制了平台主要是方便同学能将DuerOS快速的Run起来。当然，如果想在MacOS、Windows平台运行DuerOS Python SDK也是没问题的，只是在依赖配置方面可能要多花些时间。

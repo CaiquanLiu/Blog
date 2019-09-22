@@ -3,6 +3,8 @@ title: Step by Step带你玩转DuerOS - OAuth2.0全面解析 (4)
 date: 2017-11-11 21:42:32
 tags: DuerOS
 ---
+由于图片外链被禁止了，图片不能显示，完整文章看这里吧：<https://www.jianshu.com/p/c0219b8a50cd>
+
 DuerOS的开发平台在创建产品时，有一步需要进行OAuth设置（<http://open.duer.baidu.com/doc/overall/console-guide_markdown>），
 ![DuerOS OAuth配置](http://upload-images.jianshu.io/upload_images/4905018-60bba90bdfea249e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 很多同学到这个步骤估计会很困惑，OAuth是什么？这里设置的URL有是什么呢？那我们这篇文章就好好讲一讲OAuth到底是什么？在DuerOS的接入过程中又是怎么使用的。

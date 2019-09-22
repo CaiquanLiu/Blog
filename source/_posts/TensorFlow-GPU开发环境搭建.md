@@ -3,6 +3,8 @@ title: TensorFlow GPU开发环境搭建
 date: 2019-03-29 23:27:14
 tags: TensorFlow 
 ---
+由于图片外链被禁止了，图片不能显示，完整文章看这里吧：<https://zhuanlan.zhihu.com/p/60924644>
+
 TensorFlow有CPU版本和GPU版本之分，CPU版本安装相对简单，按着TensorFlow的官方文档进行安装即可。但CPU版本只能使用CPU进行计算，计算效率低。对于简单的模型计算可以使用CPU模式，但对于复杂的模型训练就需要GPU的支持了。
 ## GPU版本安装方式
 TensorFlow的GPU版本有两种安装方式：

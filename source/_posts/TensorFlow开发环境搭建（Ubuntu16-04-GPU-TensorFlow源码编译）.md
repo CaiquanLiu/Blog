@@ -3,6 +3,8 @@ title: TensorFlow开发环境搭建（Ubuntu16.04+GPU+TensorFlow源码编译）
 date: 2018-01-11 20:47:36
 tags: 机器学习/深度学习
 ---
+由于图片外链被禁止了，图片不能显示，完整文章看这里吧：<https://zhuanlan.zhihu.com/p/33089119>
+
 # 1 安装选择
 ## 1.1 平台
 目前TensorFlow已支持Mac、Ubuntu和Windows三个主流平台（64位平台），
