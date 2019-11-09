@@ -30,6 +30,7 @@ BERT的Fine-tuning需要GPU环境（CPU训练估计要慢到天长地久），�
 * Tensorflow-estimator 1.14.0
 * Tensorflow-gpu 1.14.0+nv
 * TensorRT 6.0.1（Fast transformer基于TensorRT实现，需要依赖TensorRT）
+
 # Pre-train模型获取
 中文的BERT预训练模型直接从google-research/bert获得即可，具体地址：https://github.com/google-research/bert
 ![中文BERT模型](https://pic2.zhimg.com/80/v2-880d0627c03b8afb4e5c4e2da345ba19_hd.jpg)
