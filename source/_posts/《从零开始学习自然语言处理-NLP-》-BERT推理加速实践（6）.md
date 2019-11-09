@@ -34,7 +34,7 @@ BERT的Fine-tuning需要GPU环境（CPU训练估计要慢到天长地久），�
 # Pre-train模型获取
 中文的BERT预训练模型直接从google-research/bert获得即可，具体地址：https://github.com/google-research/bert
 ![中文BERT模型](https://pic2.zhimg.com/80/v2-880d0627c03b8afb4e5c4e2da345ba19_hd.jpg)
-结合自身业务Fine-tuning
+# 结合自身业务Fine-tuning
 Fine-tuning主要是根据自己的使用场景，修改训练的数据读取逻辑，这里以文本分类（多分类、单标签）为例进行展开。文本分类的入口是run_classifier.py文件，主要增加一个自定义的数据获取类，比如，
 ![自定义数据读取类](https://pic3.zhimg.com/80/v2-c4bbbeca55f3c1805a9d82eec525f30e_hd.jpg)
 其中，
